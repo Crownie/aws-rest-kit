@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["esnext", "dom", "es2015.promise"],
+    "allowJs": false,
+    "declaration": true,
+    "outDir": "dist",
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "rootDirs": ["src", "tests"],
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules", "dist", "tests", "**/*.spec.ts", "**/*.test.ts"]
+}
