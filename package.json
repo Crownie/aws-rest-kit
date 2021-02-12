@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A set of helpers for api gateway",
   "main": "dist/index.js",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
-  "module": "dist/index.d.ts",
   "files": [
     "dist"
   ],
