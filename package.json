@@ -1,6 +1,6 @@
 {
   "name": "aws-rest-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of helpers for api gateway",
   "main": "dist/index.js",
   "module": "dist/index.js",
